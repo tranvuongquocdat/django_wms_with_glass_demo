@@ -8,3 +8,9 @@ Chạy lệnh sau để tạo các thay đổi migration cho cơ sở dữ liệ
 ```bash
 python manage.py makemigrations
 
+```bash
+python manage.py migrate
+
+```bash
+python manage.py runserver
+
